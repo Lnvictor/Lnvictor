@@ -1,7 +1,6 @@
 ### Hi 👋, I'm Victor Pereira
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Kumulus
 - 🌱 I’m currently learning Python, JavaScript and C#.
