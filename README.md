@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on Kumulus
-- 🌱 I’m currently learning Python, JavaScript and C#.
+- 🔭 I’m currently working on Shipay
+- 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on Python community
 - 📫 How to reach me: @pereiraa_victor on Instagram
 
