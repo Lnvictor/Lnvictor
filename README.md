@@ -3,4 +3,4 @@
 
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on Python community
-- 📫 How to reach me: @pereiraa_victor on Instagram
+- 📫 How to reach me: @_lnvictor on Instagram
